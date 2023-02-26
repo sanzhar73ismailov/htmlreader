@@ -1,0 +1,27 @@
+Peer39 exercise
+part1
+You need to design and implement a service that brings the text of a URL for a list of given Web Pages.
+Input: URLs
+Output: URL, URL Text
+General guidelines
+● Implementation must be documented and readable
+● Text is read in one pass
+● Use java8 implementation guidelines
+● You should use gradle for build and deploy
+● Bonus: Retrieve only the text from html. Tags should be cleaned but the text between them
+should remain. Also, text should not include scripts.
+Delivery and testing guidelines
+● Test your code against various example URLs including the URLs below:
+o http://www.msn.com/en-nz/travel/tripideas/70-of-the-planets-most-breathtaking-sights
+/ss-AAIUpDp
+o https://www.radiosport.co.nz/sport-news/rugby/accident-or-one-last-dig-eddie-jones-re
+veals-hansens-next-job/
+o https://www.glamour.de/frisuren/frisurenberatung/haarschnitte
+o https://www.bbc.com
+o https://www3.forbes.com/business/2020-upcoming-hottest-new-vehicles/13/?nowelco
+me
+o https://www.tvblog.it/post/1681999/valerio-fabrizio-salvatori-gli-inseparabili-chi-sono-p
+echino-express-2020
+o http://edition.cnn.com/
+● Zip the project file and email to pninit.dvir@peer39.com
+
